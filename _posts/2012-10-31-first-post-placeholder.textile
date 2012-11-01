@@ -1,0 +1,10 @@
+---
+layout: post
+title: First Post Placeholder
+---
+
+h1. {{ page.title }}
+
+p(meta). 31 Oct 2012 - San Francisco
+
+This is a placeholder for my first post.
